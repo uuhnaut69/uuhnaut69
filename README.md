@@ -2,8 +2,6 @@
 
 My name is Tuan Nguyen. I'm a Software Engineer.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uuhnaut69/)
-
 #### Favorite tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
