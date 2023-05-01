@@ -29,5 +29,4 @@ I'm currently curious about cryptocurrencies, blockchains, and NFTs
 #### I'm current learning
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
