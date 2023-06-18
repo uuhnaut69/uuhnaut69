@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Tuan Nguyen. I'm a Software Engineer.
-I'm currently curious about cryptocurrencies, blockchains, and NFTs
 
 #### Favorite tech stack
 
